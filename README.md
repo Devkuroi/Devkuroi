@@ -10,7 +10,7 @@
 	<a href="">
 		<img
 			alt="Twitter Follow"
-			src="https://img.shields.io/twitter/follow/kuroictm?color=green&logo=Twitter&style=flat-square"
+			src="https://img.shields.io/twitter/follow/Devkuroi?color=green&logo=Twitter&style=flat-square"
 		/>
 	</a>
 </div>
