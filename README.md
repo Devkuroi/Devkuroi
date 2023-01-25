@@ -21,7 +21,7 @@
 
 - 🌱I'm currentli learning **JavaScript, TypeScript, React.js**
 
-- 🌐Website [https://devkuroi.github.io/]
+- 🌐Website Devkuroi[https://devkuroi.github.io/]
 
 <div align="center">
     <h3>🛠️Lenguages and Tools</h3>
