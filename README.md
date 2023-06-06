@@ -31,7 +31,7 @@ Spring, MYSQL*
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40px" height="40px">
-	 <img src="icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
     </div>
 </div>
 
