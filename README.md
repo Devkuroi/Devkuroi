@@ -19,9 +19,11 @@
 
 ### 👨‍💻About me :
 
-- 🌱I'm currentli learning **JavaScript, TypeScript, React.js**
+- 🌱I'm currentli learning **Java,
+Spring, MYSQL*
 
-- 🌐Website Devkuroi[https://devkuroi.github.io/]
+
+- 🌐Website Devkuroi[SOON]
 
 <div align="center">
     <h3>🛠️Lenguages and Tools</h3>
