@@ -1,40 +1,41 @@
-<div id="header" align="center">
-	<img
-		src="https://media.giphy.com/media/TJENfVBfw4GEtFLdbt/giphy.gif"
-		alt="..."
-	/>
-	<h1>Hi👋, I'm Devkuroi</h1>
-	<h3>I'm software developer from Colombia</h3>
-</div>
-<div id="badges" align="center">
-	<a href="">
-		<img
-			alt="Twitter Follow"
-			src="https://img.shields.io/twitter/follow/Devkuroi?color=green&logo=Twitter&style=flat-square"
-		/>
-	</a>
-</div>
-
----
-
-### 👨‍💻About me :
-
-- 🌱I'm currentli learning **Java,
-Spring, MYSQL*
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 
-- 🌐Website Devkuroi[SOON]
 
-<div align="center">
-    <h3>🛠️Lenguages and Tools</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40px" height="40px">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40px" height="40px">
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40px" height="40px">
-    </div>
+
+<h1 align="center">Hi 👋, I'm Joan Oviedo</h1>
+<h3 align="center">A passionate backend developer from Colombia</h3>
+
+<p align="left"> <a href="https://twitter.com/devkuroi" target="blank"><img src="https://img.shields.io/twitter/follow/devkuroi?logo=twitter&style=for-the-badge" alt="devkuroi" /></a> </p>
+
+- 🌱 I’m currently learning **Angular, kafka**
+
+- 👨‍💻 All of my projects are available at [https://devkuroi.up.railway.app/](https://devkuroi.up.railway.app/)
+
+- 📫 How to reach me **joan2000oviedo@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devkuroi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkuroi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/devkuroi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devkuroi/" height="30" width="40" /></a>
+</p>
+<div align="left">
+    <h3>Languages and Tools:</h3>
+<h2>:star2: Front End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,angular,npm,netlify,vite,regex&perline=6" />
+  </a>
+
+  <h2>:zap: Back End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres&perline=6" />
+  </a>
+
+  <h2>:wrench: Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,mint,vscode,idea&perline=6" />
+  </a>
+</p>
 </div>
 
 ---
@@ -44,5 +45,3 @@ Spring, MYSQL*
 [![GitHub Streak](https://streak-stats.demolab.com?user=Devkuroi&theme=dark&border_radius=16)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devkuroi&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devkuroi&tokyonight)](https://github.com/anuraghazra/github-readme-stats)
