@@ -25,7 +25,7 @@
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,nodejs&perline=6" />
   </a>
 
   <h2>:wrench: Tools</h2>
