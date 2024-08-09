@@ -39,6 +39,6 @@
 
 ### 📊My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Devkuroi&theme=dark&border_radius=16)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Devkuroi&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devkuroi&show_icons=true&theme=tokyonight)
