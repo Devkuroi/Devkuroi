@@ -20,12 +20,12 @@
     <h3>Languages and Tools:</h3>
 <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,npm,angular&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,angular&perline=6" />
   </a>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,nodejs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres&perline=6" />
   </a>
 
   <h2>:wrench: Tools</h2>
