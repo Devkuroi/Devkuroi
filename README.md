@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Joan Oviedo</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular, kafka, vite, microservices**
+- 🌱 I’m currently learning **kafka, vite, microservices**
 
 - 👨‍💻 All of my projects are available at [https://devkuroi.up.railway.app/](https://devkuroi.up.railway.app/)
 
