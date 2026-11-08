@@ -30,7 +30,7 @@
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,mint,vscode,idea&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,mint,vscode,idea,jenkins&perline=6" />
   </a>
 </p>
 </div>
